@@ -1,5 +1,8 @@
 ## Typescript with react tutorials
 
+### Remember one thing, use the interface when defining the data structure outside of the react component, and use types when defining the proptype, state types or any other in the react components
+
+
 - Learn more at [Typescript React cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ### Using Typescript with Components
