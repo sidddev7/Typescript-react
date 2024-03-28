@@ -276,5 +276,4 @@
       footer?: React.ReactElement<React.ReactElement> | null;
       title: React.ReactElement<React.ReactElement> | string;
     } & ModalProps;
-
 ```
